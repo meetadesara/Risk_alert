@@ -76,7 +76,3 @@ Only about 12% of the customers are labeled High Risk, so the dataset is clearly
 ## Note
 
 The dataset used here is fairly cleanly separable between the two classes, which is why some of the models score very high (close to 1.0 AUC-ROC). This is a property of this particular dataset rather than a guarantee of real-world performance, and would be worth keeping in mind if this approach were ever applied to live banking data.
-
-## Author
-
-Herit Tanna
